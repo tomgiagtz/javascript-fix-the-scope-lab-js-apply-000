@@ -1,5 +1,5 @@
+var animal = 'dog'
 
-var animal = 'cat'
 
 function yourAnimal() {
   // How can we make sure that this function
@@ -7,8 +7,6 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
   return animal
 }
-
-animal = 'dog'
 
 function myAnimal() {
   return animal
